@@ -1,2 +1,5 @@
 # Basic-Weather-app
-Basic weather app using React.js
+🌦️ Weather App
+A simple React-based Weather App that fetches real-time weather data using the OpenWeather API.
+Users can search for any city and instantly see the current temperature, humidity, min/max temperature, and a short weather description.
+The background dynamically changes based on weather conditions (Hot, Cold, or Rainy) for a more interactive experience.
