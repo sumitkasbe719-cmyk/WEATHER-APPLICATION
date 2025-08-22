@@ -1,0 +1,24 @@
+.SearchBox {
+    border: 1px solid #ddd;
+    width: 300px;
+    border-radius: 12px;
+    text-align: center;
+    margin: 2px auto;
+    padding: 20px;
+    background: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.searchContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 15px; /* adds spacing between input & button */
+    align-items: center;
+}
+
+.search {
+    margin-top: 10px !important;
+    background: #1976d2 !important;
+    border-radius: 8px !important;
+    padding: 6px 16px !important;
+}
