@@ -50,7 +50,7 @@ The purpose of this project is to provide users with up-to-date weather informat
 ---
 
 ## 🚀 Live Demo  
-👉 sumitkasbe.github.io/Basic-Weather-app/
+👉 https://sumitkasbe.github.io/Basic-Weather-app/
 
 ---
 
