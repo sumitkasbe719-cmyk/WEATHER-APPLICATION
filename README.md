@@ -33,27 +33,24 @@ The purpose of this project is to provide users with up-to-date weather informat
 - Built using **Material UI** for a clean interface.  
 - **Responsive** and user-friendly design.  
 
-### 🚀 Deployment  
-- Hosted on **Render** for easy accessibility.  
-
 ---
 
 ## 🛠️ Tech Stack  
 - **React + Vite** → Frontend framework  
 - **Material UI** → UI components  
 - **OpenWeather API** → Weather data provider  
-- **Render** → Hosting  
+- **GitHub** → Hosting  
 
 ---
 
 ## 📸 Screenshot  
 🔹 Weather App Interface  
-![Weather App Screenshot](./screenshots/weather-app.png)  
+<img width="1920" height="1020" alt="WEATHERSS" src="https://github.com/user-attachments/assets/b28062ed-9373-484c-971e-dcc00598ec15" />
 
 ---
 
 ## 🚀 Live Demo  
-👉 [Click here to try the application](#)  
+👉 https://sumitkasbe.github.io/Basic-Weather-app/(#)  
 
 ---
 
@@ -61,8 +58,7 @@ The purpose of this project is to provide users with up-to-date weather informat
 Through this project, I learned how to:  
 - Integrate **third-party APIs** into a React application.  
 - Handle **real-time data fetching** and **state management**.  
-- Design **responsive UIs** with Material UI.  
-- Deploy React applications on **Render**.  
+- Design **responsive UIs** with Material UI.   
 
 This project strengthened my **React + API integration skills** and gave me confidence to build more **real-world applications** in the future.  
 
